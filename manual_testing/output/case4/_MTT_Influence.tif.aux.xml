@@ -1,6 +1,0 @@
-<PAMDataset>
-  <PAMRasterBand band="1">
-    <Description>MTT Node Influence</Description>
-    <UnitType>class</UnitType>
-  </PAMRasterBand>
-</PAMDataset>

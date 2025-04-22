@@ -1,6 +1,0 @@
-<PAMDataset>
-  <PAMRasterBand band="1">
-    <Description>Horizontal Movement Rate        </Description>
-    <UnitType>m/min</UnitType>
-  </PAMRasterBand>
-</PAMDataset>

@@ -1,6 +1,0 @@
-<PAMDataset>
-  <PAMRasterBand band="1">
-    <Description>Heat Per Unit Area              </Description>
-    <UnitType>kJ/m^2</UnitType>
-  </PAMRasterBand>
-</PAMDataset>

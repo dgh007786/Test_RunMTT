@@ -1,6 +1,0 @@
-<PAMDataset>
-  <PAMRasterBand band="1">
-    <Description>Flame Length                    </Description>
-    <UnitType>meters</UnitType>
-  </PAMRasterBand>
-</PAMDataset>

@@ -1,6 +1,0 @@
-<PAMDataset>
-  <PAMRasterBand band="1">
-    <Description>ELLIPSEDIM_A                    </Description>
-    <UnitType>m/min</UnitType>
-  </PAMRasterBand>
-</PAMDataset>
