@@ -1,0 +1,14 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>MTT Arrival Time</Description>
+    <UnitType>minutes</UnitType>
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">599.55279541016</MDI>
+      <MDI key="STATISTICS_MEAN">381.13859788654</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_STDDEV">148.00341743316</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">6.454</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

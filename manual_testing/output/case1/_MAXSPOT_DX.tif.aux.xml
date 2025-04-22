@@ -1,0 +1,6 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Max Spot Distance               </Description>
+    <UnitType>meters</UnitType>
+  </PAMRasterBand>
+</PAMDataset>

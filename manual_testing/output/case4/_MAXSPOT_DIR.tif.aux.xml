@@ -1,0 +1,6 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Max Spot Direction              </Description>
+    <UnitType>degrees</UnitType>
+  </PAMRasterBand>
+</PAMDataset>

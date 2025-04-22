@@ -1,0 +1,6 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Fireline Intensity              </Description>
+    <UnitType>kW/m</UnitType>
+  </PAMRasterBand>
+</PAMDataset>

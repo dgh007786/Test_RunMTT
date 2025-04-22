@@ -1,0 +1,6 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>10 Hour Fuel Moisture           </Description>
+    <UnitType>proportion</UnitType>
+  </PAMRasterBand>
+</PAMDataset>

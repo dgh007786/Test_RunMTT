@@ -1,0 +1,6 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Rate of Spread                  </Description>
+    <UnitType>m/min</UnitType>
+  </PAMRasterBand>
+</PAMDataset>

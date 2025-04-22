@@ -1,0 +1,1 @@
+/home/gunjan/Desktop/Test_RunMTT/manual_testing/case4/lcp.tif /home/gunjan/Desktop/Test_RunMTT/manual_testing/case4/input.txt /home/gunjan/Desktop/Test_RunMTT/manual_testing/case4/Ignition_small.shp 0 /home/gunjan/Desktop/Test_RunMTT/manual_testing/output/case4/ 2

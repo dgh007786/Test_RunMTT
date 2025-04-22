@@ -1,0 +1,6 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Solar Radiation                 </Description>
+    <UnitType>W/m^2</UnitType>
+  </PAMRasterBand>
+</PAMDataset>

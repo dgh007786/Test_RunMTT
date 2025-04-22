@@ -1,0 +1,14 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>Maximum Spread Direction        </Description>
+    <UnitType>degrees</UnitType>
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MAXIMUM">359.9983215332</MDI>
+      <MDI key="STATISTICS_MEAN">79.983554028245</MDI>
+      <MDI key="STATISTICS_MINIMUM">0.022334918379784</MDI>
+      <MDI key="STATISTICS_STDDEV">82.689036594386</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">56.47</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
